@@ -121,3 +121,9 @@ source $ZSH/oh-my-zsh.sh
 # Homebrew config
 export HOMEBREW_BUNDLE_FILE="~/.brewfile"
 source /opt/homebrew/opt/powerlevel10k/powerlevel10k.zsh-theme
+
+# Golang config
+export GO111MODULE="on"
+export PATH=$PATH:/Users/neon/go/bin
+
+source /Users/neon/.docker/init-zsh.sh || true # Added by Docker Desktop

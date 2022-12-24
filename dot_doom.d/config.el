@@ -4,7 +4,7 @@
 (setq user-full-name "Alhaitham Al Jabri"
       user-mail-address "jabri.dev@gmail.com")
 
-(setq doom-theme 'leuven)
+(setq doom-theme 'doom-dark+)
 
 (setq display-line-numbers-type t)
 
