@@ -50,7 +50,9 @@
 ;(unpin! t)
 
 
+;; leetcode
 (package! leetcode)
 
+;; Github Copilot
 (package! copilot
   :recipe (:host github :repo "zerolfx/copilot.el" :files ("*.el" "dist")))
