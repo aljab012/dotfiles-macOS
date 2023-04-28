@@ -2,7 +2,7 @@
 	name = Alhaitham Al Jabri
 	email = jabri.dev@gmail.com
 	username = aljab012
-	signingkey = 58690D98D4BF9721!
+	signingkey = 2BBF3C1FA2C424A4
 [init]
 	defaultBranch = main
 [core]
