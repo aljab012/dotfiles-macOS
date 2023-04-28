@@ -19,9 +19,9 @@
 
   :hook (
          (go-mode . copilot-mode)
+         (javascript-mode . copilot-mode)
          (yaml-mode . copilot-mode)
          (java-mode . copilot-mode)
-         (elisp-mode . copilot-mode)
          (markdown-mode . copilot-mode))
   :bind (("C-TAB" . 'copilot-accept-completion-by-word)
          ("C-<tab>" . 'copilot-accept-completion-by-word)
