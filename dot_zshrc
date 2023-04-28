@@ -129,3 +129,5 @@ export PATH=$PATH:/Users/neon/go/bin
 source /Users/neon/.docker/init-zsh.sh || true # Added by Docker Desktop
 
 alias gt="go test -cover -p 1 ./..."
+
+export GPG_TTY=$(tty)
