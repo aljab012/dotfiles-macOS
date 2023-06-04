@@ -20,3 +20,5 @@
 	autoSetupRemote = true
 [commit]
 	gpgsign = true
+[diff]
+	tool = ediff
